@@ -1,0 +1,6 @@
+user_id,signup_date,city,device_type,kyc_status
+1,2023-10-01,Delhi,Android,Full
+2,2023-10-02,Mumbai,iOS,Partial
+3,2023-10-03,Bangalore,Android,Full
+4,2023-10-04,Hyderabad,Android,None
+5,2023-10-05,Chennai,iOS,Full
